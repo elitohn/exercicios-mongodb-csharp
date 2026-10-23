@@ -6,7 +6,7 @@
 
 </div>
 
-# Exercícios MongoDB com C#
+# 🧩 Exercícios MongoDB com C#
 
 Conjunto de exercícios em **C#** para praticar integração com o MongoDB. O conteúdo inclui operações CRUD, modelagem e serialização de documentos BSON, consultas, agregações, validação de schema e criação de índices.
 
@@ -33,6 +33,8 @@ Conjunto de exercícios em **C#** para praticar integração com o MongoDB. O co
 ```text
 exercicios-mongodb-csharp/
 ├── CursoMongoDB/
+│   ├── .env.example    # exemplo de configuração
+│   ├── .gitignore
 │   ├── Contexts/       # Contexto e configuração de conexão
 │   ├── Models/         # Notícias, jornalistas, comentários e anexos
 │   ├── Programs/       # Exercícios separados por aula
@@ -40,7 +42,6 @@ exercicios-mongodb-csharp/
 │   ├── data/           # Dados fictícios de demonstração
 │   ├── Program.cs      # Seleção do exercício a executar
 │   └── CursoMongoDB.csproj
-├── .gitignore
 └── README.md
 ```
 
