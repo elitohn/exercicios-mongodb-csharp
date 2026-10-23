@@ -1,0 +1,38 @@
+[
+  {
+    "Titulo": "Exemplo de notícia sobre tecnologia",
+    "Texto": "Documento de demonstração para praticar inserções e consultas no MongoDB.",
+    "DataPublicacao": "2025-01-15T12:00:00Z",
+    "Tags": [
+      "tecnologia",
+      "exemplo"
+    ],
+    "Jornalistas": [
+      {
+        "Nome": "Pessoa Exemplo"
+      }
+    ],
+    "Comentarios": [
+      {
+        "Comentario": "Comentário de demonstração.",
+        "Curtidas": 2,
+        "Usuario": "leitor-exemplo",
+        "Data": "2025-01-15T13:00:00Z"
+      }
+    ],
+    "Anexos": [
+      {
+        "NomeArquivo": "relatorio.pdf",
+        "Url": "https://example.com/relatorio.pdf",
+        "Tamanho": 1024,
+        "Tipo": "application/pdf",
+        "Cliques": 3
+      }
+    ],
+    "Visualizacoes": 100,
+    "TotalComentarios": 1,
+    "Gostei": 15,
+    "NaoGostei": 2,
+    "TempoMedioLeitura": 2.5
+  }
+]

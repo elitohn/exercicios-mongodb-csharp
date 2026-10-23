@@ -1,0 +1,19 @@
+# Artefatos .NET
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# IDEs
+.vs/
+.idea/
+*.user
+*.suo
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+secrets.json
